@@ -187,7 +187,7 @@ const products = ref([
     title: 'Website Portofolio v2',
     type: 'Source Code',
     level: 'All Levels',
-    thumbnail: '/Thumbnail-product/Source-Code/SC1.jpg',
+    thumbnail: '/Thumbnail-product/Source-code/SC1.jpg',
     features: ['Source Code'],
     description: 'Source Code Website Portofolio',
     originalPrice: 'Rp 99.000',
