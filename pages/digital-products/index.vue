@@ -181,6 +181,18 @@ const products = ref([
     originalPrice: 'Rp 99.000',
     price: 'Rp 49.000',
     link: 'http://lynk.id/kulonitcom/zn6gln5xzj6v'
+  },
+  {
+    id: 5,
+    title: 'Website Portofolio v2',
+    type: 'Source Code',
+    level: 'All Levels',
+    thumbnail: '/Thumbnail-product/Source-Code/SC1.jpg',
+    features: ['Source Code'],
+    description: 'Source Code Website Portofolio',
+    originalPrice: 'Rp 99.000',
+    price: 'Rp 49.000',
+    link: 'http://lynk.id/kulonitcom'
   }
 ])
 
