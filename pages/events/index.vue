@@ -74,30 +74,30 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           
           <!-- Event Card 1 -->
-          <!-- <div class="group bg-white dark:bg-[#0a0a0a] rounded-2xl border border-gray-200 dark:border-gray-800/80 overflow-hidden transition-all duration-300 hover:border-primary/50 hover:shadow-xl flex flex-col h-full cursor-pointer">
+          <div class="group bg-white dark:bg-[#0a0a0a] rounded-2xl border border-gray-200 dark:border-gray-800/80 overflow-hidden transition-all duration-300 hover:border-primary/50 hover:shadow-xl flex flex-col h-full cursor-pointer">
              <div class="relative w-full aspect-video bg-gray-100 dark:bg-gray-800 overflow-hidden">
-               <img src="#" alt="Workshop Frontend" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" onerror="this.style.display='none'">
+               <img src="/Events/WB-2.jpg" alt="Workshop Frontend" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" onerror="this.style.display='none'">
                <div class="absolute top-3 right-3">
-                 <span class="px-2 py-1 bg-white dark:bg-black font-bold text-xs text-blue-600 dark:text-blue-400 rounded">Workshop</span>
+                 <span class="px-2 py-1 bg-white dark:bg-black font-bold text-xs text-blue-600 dark:text-blue-400 rounded">Akan Datang</span>
                </div>
              </div>
              
              <div class="p-6 flex flex-col flex-grow">
                <div class="text-xs font-bold text-primary uppercase tracking-wider mb-2">
-                 22 April 2026 • 10:00 WIB
+                 17 Juli 2026 • 19:00 WIB
                </div>
                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 line-clamp-2">
-                 Mastering Vue 3 & Composition API Bootcamp
+                 Webinar Series #2 | Sharing After Graduate
                </h3>
                <p class="text-gray-600 dark:text-gray-400 text-sm mb-6 flex-grow">
-                 Workshop hands-on membangun aplikasi Single Page Application dengan teknologi terdepan bersama senior engineer.
+                 Lagi asyik scroll nyari loker, tapi malah nemu berita "AI bakal gantiin programmer"? Jadi kepikiran, sebenarnya prospek lulusan IT ke depannya bakal gimana ya?
                </p>
                
-               <button class="w-full px-5 py-2.5 text-sm font-bold text-primary dark:text-white transition-all duration-300 rounded-xl border-2 border-primary group-hover:bg-primary group-hover:text-white text-center">
-                 Lihat Detail
-               </button>
+               <a href="https://s.id/WebinarKulonit2" target="_blank" class="w-full px-5 py-2.5 text-sm font-bold text-primary dark:text-white transition-all duration-300 rounded-xl border-2 border-primary group-hover:bg-primary group-hover:text-white text-center">
+                 Daftar Sekarang
+               </a>
              </div>
-          </div> -->
+          </div>
 
           <!-- Event Card 2 -->
           <div class="group bg-white dark:bg-[#0a0a0a] rounded-2xl border border-gray-200 dark:border-gray-800/80 overflow-hidden transition-all duration-300 hover:border-primary/50 hover:shadow-xl flex flex-col h-full cursor-pointer">
@@ -139,7 +139,7 @@
                  Webinar • 23 Agustus 2024
                </div>
                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 line-clamp-2">
-                 Webinar UI/UX Design & System Analyst
+                 Webinar Series #1 | UI/UX Design & System Analyst
                </h3>
                <p class="text-gray-600 dark:text-gray-400 text-sm mb-6 flex-grow">
                  Menghubungkan Estetika dengan Fungsionalitas & Menguasai UML untuk Desain Software.
